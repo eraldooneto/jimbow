@@ -1,0 +1,27 @@
+{
+  "name": "jimbow",
+  "version": "1.0.0",
+  "description": "This is an API for activities tracking, as trello does in its kanban board.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eraldooneto/jimbow.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/eraldooneto/jimbow/issues"
+  },
+  "homepage": "https://github.com/eraldooneto/jimbow#readme",
+  "devDependencies": {
+    "@types/node": "^25.5.0",
+    "ts-node": "^10.9.2",
+    "tsx": "^4.21.0",
+    "typescript": "^6.0.2"
+  }
+}
